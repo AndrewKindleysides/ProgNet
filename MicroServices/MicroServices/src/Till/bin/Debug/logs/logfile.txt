@@ -1,0 +1,56 @@
+11:05:16 [Info] Configuration Result:
+[Success] Name Till
+[Success] ServiceName Till [Topshelf.HostFactory] 
+11:05:16 [Info] Topshelf v3.1.122.0, .NET Framework v4.0.30319.17020 [Topshelf.HostConfigurators.HostConfiguratorImpl] 
+11:05:16 [Error] Unable to get parent process (ignored) [Topshelf.Runtime.Windows.WindowsHostEnvironment] System.EntryPointNotFoundException: CreateToolhelp32Snapshot
+  at (wrapper managed-to-native) Topshelf.Runtime.Windows.Kernel32:CreateToolhelp32Snapshot (uint,uint)
+  at Topshelf.Runtime.Windows.WindowsHostEnvironment.GetParent (System.Diagnostics.Process child) [0x00000] in <filename unknown>:0 
+11:05:16 [Error] The service terminated abnormally [Topshelf.HostFactory] System.NotImplementedException: The requested feature is not implemented.
+  at System.ServiceProcess.UnixServiceController.GetServices () [0x00000] in /private/tmp/source/bockbuild-mono-3.2.6/profiles/mono-mac-xamarin/build-root/mono-3.2.6/mcs/class/System.ServiceProcess/System.ServiceProcess/UnixServiceController.cs:119 
+  at System.ServiceProcess.ServiceController.GetServices (System.String machineName) [0x00019] in /private/tmp/source/bockbuild-mono-3.2.6/profiles/mono-mac-xamarin/build-root/mono-3.2.6/mcs/class/System.ServiceProcess/System.ServiceProcess/ServiceController.cs:308 
+  at System.ServiceProcess.ServiceController.GetServices () [0x00000] in /private/tmp/source/bockbuild-mono-3.2.6/profiles/mono-mac-xamarin/build-root/mono-3.2.6/mcs/class/System.ServiceProcess/System.ServiceProcess/ServiceController.cs:299 
+  at Topshelf.Runtime.Windows.WindowsHostEnvironment.IsServiceInstalled (System.String serviceName) [0x00000] in <filename unknown>:0 
+  at Topshelf.Hosts.ConsoleRunHost.Run () [0x00000] in <filename unknown>:0 
+  at Topshelf.HostFactory.Run (System.Action`1 configureCallback) [0x00000] in <filename unknown>:0 
+11:05:34 [Info] Configuration Result:
+[Success] Name Till
+[Success] ServiceName Till [Topshelf.HostFactory] 
+11:05:34 [Info] Topshelf v3.1.122.0, .NET Framework v4.0.30319.17020 [Topshelf.HostConfigurators.HostConfiguratorImpl] 
+11:05:34 [Error] Unable to get parent process (ignored) [Topshelf.Runtime.Windows.WindowsHostEnvironment] System.EntryPointNotFoundException: CreateToolhelp32Snapshot
+  at (wrapper managed-to-native) Topshelf.Runtime.Windows.Kernel32:CreateToolhelp32Snapshot (uint,uint)
+  at Topshelf.Runtime.Windows.WindowsHostEnvironment.GetParent (System.Diagnostics.Process child) [0x00000] in <filename unknown>:0 
+11:05:34 [Error] The service terminated abnormally [Topshelf.HostFactory] System.NotImplementedException: The requested feature is not implemented.
+  at System.ServiceProcess.UnixServiceController.GetServices () [0x00000] in /private/tmp/source/bockbuild-mono-3.2.6/profiles/mono-mac-xamarin/build-root/mono-3.2.6/mcs/class/System.ServiceProcess/System.ServiceProcess/UnixServiceController.cs:119 
+  at System.ServiceProcess.ServiceController.GetServices (System.String machineName) [0x00019] in /private/tmp/source/bockbuild-mono-3.2.6/profiles/mono-mac-xamarin/build-root/mono-3.2.6/mcs/class/System.ServiceProcess/System.ServiceProcess/ServiceController.cs:308 
+  at System.ServiceProcess.ServiceController.GetServices () [0x00000] in /private/tmp/source/bockbuild-mono-3.2.6/profiles/mono-mac-xamarin/build-root/mono-3.2.6/mcs/class/System.ServiceProcess/System.ServiceProcess/ServiceController.cs:299 
+  at Topshelf.Runtime.Windows.WindowsHostEnvironment.IsServiceInstalled (System.String serviceName) [0x00000] in <filename unknown>:0 
+  at Topshelf.Hosts.ConsoleRunHost.Run () [0x00000] in <filename unknown>:0 
+  at Topshelf.HostFactory.Run (System.Action`1 configureCallback) [0x00000] in <filename unknown>:0 
+11:05:37 [Info] Configuration Result:
+[Success] Name Till
+[Success] ServiceName Till [Topshelf.HostFactory] 
+11:05:37 [Info] Topshelf v3.1.122.0, .NET Framework v4.0.30319.17020 [Topshelf.HostConfigurators.HostConfiguratorImpl] 
+11:05:37 [Error] Unable to get parent process (ignored) [Topshelf.Runtime.Windows.WindowsHostEnvironment] System.EntryPointNotFoundException: CreateToolhelp32Snapshot
+  at (wrapper managed-to-native) Topshelf.Runtime.Windows.Kernel32:CreateToolhelp32Snapshot (uint,uint)
+  at Topshelf.Runtime.Windows.WindowsHostEnvironment.GetParent (System.Diagnostics.Process child) [0x00000] in <filename unknown>:0 
+11:05:37 [Error] The service terminated abnormally [Topshelf.HostFactory] System.NotImplementedException: The requested feature is not implemented.
+  at System.ServiceProcess.UnixServiceController.GetServices () [0x00000] in /private/tmp/source/bockbuild-mono-3.2.6/profiles/mono-mac-xamarin/build-root/mono-3.2.6/mcs/class/System.ServiceProcess/System.ServiceProcess/UnixServiceController.cs:119 
+  at System.ServiceProcess.ServiceController.GetServices (System.String machineName) [0x00019] in /private/tmp/source/bockbuild-mono-3.2.6/profiles/mono-mac-xamarin/build-root/mono-3.2.6/mcs/class/System.ServiceProcess/System.ServiceProcess/ServiceController.cs:308 
+  at System.ServiceProcess.ServiceController.GetServices () [0x00000] in /private/tmp/source/bockbuild-mono-3.2.6/profiles/mono-mac-xamarin/build-root/mono-3.2.6/mcs/class/System.ServiceProcess/System.ServiceProcess/ServiceController.cs:299 
+  at Topshelf.Runtime.Windows.WindowsHostEnvironment.IsServiceInstalled (System.String serviceName) [0x00000] in <filename unknown>:0 
+  at Topshelf.Hosts.ConsoleRunHost.Run () [0x00000] in <filename unknown>:0 
+  at Topshelf.HostFactory.Run (System.Action`1 configureCallback) [0x00000] in <filename unknown>:0 
+11:05:22 [Info] Configuration Result:
+[Success] Name Till
+[Success] ServiceName Till [Topshelf.HostFactory] 
+11:05:22 [Info] Topshelf v3.1.122.0, .NET Framework v4.0.30319.17020 [Topshelf.HostConfigurators.HostConfiguratorImpl] 
+11:05:22 [Error] Unable to get parent process (ignored) [Topshelf.Runtime.Windows.WindowsHostEnvironment] System.EntryPointNotFoundException: CreateToolhelp32Snapshot
+  at (wrapper managed-to-native) Topshelf.Runtime.Windows.Kernel32:CreateToolhelp32Snapshot (uint,uint)
+  at Topshelf.Runtime.Windows.WindowsHostEnvironment.GetParent (System.Diagnostics.Process child) [0x00000] in <filename unknown>:0 
+11:05:22 [Error] The service terminated abnormally [Topshelf.HostFactory] System.NotImplementedException: The requested feature is not implemented.
+  at System.ServiceProcess.UnixServiceController.GetServices () [0x00000] in /private/tmp/source/bockbuild-mono-3.2.6/profiles/mono-mac-xamarin/build-root/mono-3.2.6/mcs/class/System.ServiceProcess/System.ServiceProcess/UnixServiceController.cs:119 
+  at System.ServiceProcess.ServiceController.GetServices (System.String machineName) [0x00019] in /private/tmp/source/bockbuild-mono-3.2.6/profiles/mono-mac-xamarin/build-root/mono-3.2.6/mcs/class/System.ServiceProcess/System.ServiceProcess/ServiceController.cs:308 
+  at System.ServiceProcess.ServiceController.GetServices () [0x00000] in /private/tmp/source/bockbuild-mono-3.2.6/profiles/mono-mac-xamarin/build-root/mono-3.2.6/mcs/class/System.ServiceProcess/System.ServiceProcess/ServiceController.cs:299 
+  at Topshelf.Runtime.Windows.WindowsHostEnvironment.IsServiceInstalled (System.String serviceName) [0x00000] in <filename unknown>:0 
+  at Topshelf.Hosts.ConsoleRunHost.Run () [0x00000] in <filename unknown>:0 
+  at Topshelf.HostFactory.Run (System.Action`1 configureCallback) [0x00000] in <filename unknown>:0 
