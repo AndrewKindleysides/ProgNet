@@ -1,0 +1,9 @@
+/Users/andrewisatree/Repos/prognet/TopShelf/TopShelf/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/andrewisatree/Repos/prognet/TopShelf/TopShelf/bin/Debug/TopShelf.exe.mdb
+/Users/andrewisatree/Repos/prognet/TopShelf/TopShelf/bin/Debug/TopShelf.exe
+/Users/andrewisatree/Repos/prognet/TopShelf/TopShelf/obj/x86/Debug/TopShelf.exe
+/Users/andrewisatree/Repos/prognet/TopShelf/TopShelf/obj/x86/Debug/TopShelf.exe.mdb
+/Users/andrewisatree/Repos/prognet/TopShelf/TopShelf/bin/Debug/Topshelf.dll
+/Users/andrewisatree/Repos/prognet/TopShelf/TopShelf/bin/Debug/Topshelf.Linux.dll
+/Users/andrewisatree/Repos/prognet/TopShelf/TopShelf/bin/Debug/Topshelf.exe
+/Users/andrewisatree/Repos/prognet/TopShelf/TopShelf/bin/Debug/Topshelf.exe.mdb

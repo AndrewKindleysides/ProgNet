@@ -1,0 +1,56 @@
+11:05:46 [Info] Configuration Result:
+[Success] Name Dispatch
+[Success] ServiceName Dispatch [Topshelf.HostFactory] 
+11:05:46 [Info] Topshelf v3.1.122.0, .NET Framework v4.0.30319.17020 [Topshelf.HostConfigurators.HostConfiguratorImpl] 
+11:05:47 [Error] Unable to get parent process (ignored) [Topshelf.Runtime.Windows.WindowsHostEnvironment] System.EntryPointNotFoundException: CreateToolhelp32Snapshot
+  at (wrapper managed-to-native) Topshelf.Runtime.Windows.Kernel32:CreateToolhelp32Snapshot (uint,uint)
+  at Topshelf.Runtime.Windows.WindowsHostEnvironment.GetParent (System.Diagnostics.Process child) [0x00000] in <filename unknown>:0 
+11:05:47 [Error] The service terminated abnormally [Topshelf.HostFactory] System.NotImplementedException: The requested feature is not implemented.
+  at System.ServiceProcess.UnixServiceController.GetServices () [0x00000] in <filename unknown>:0 
+  at System.ServiceProcess.ServiceController.GetServices (System.String machineName) [0x00000] in <filename unknown>:0 
+  at System.ServiceProcess.ServiceController.GetServices () [0x00000] in <filename unknown>:0 
+  at Topshelf.Runtime.Windows.WindowsHostEnvironment.IsServiceInstalled (System.String serviceName) [0x00000] in <filename unknown>:0 
+  at Topshelf.Hosts.ConsoleRunHost.Run () [0x00000] in <filename unknown>:0 
+  at Topshelf.HostFactory.Run (System.Action`1 configureCallback) [0x00000] in <filename unknown>:0 
+12:05:57 [Info] Configuration Result:
+[Success] Name Dispatch
+[Success] ServiceName Dispatch [Topshelf.HostFactory] 
+12:05:57 [Info] Topshelf v3.1.122.0, .NET Framework v4.0.30319.17020 [Topshelf.HostConfigurators.HostConfiguratorImpl] 
+12:05:57 [Error] Unable to get parent process (ignored) [Topshelf.Runtime.Windows.WindowsHostEnvironment] System.EntryPointNotFoundException: CreateToolhelp32Snapshot
+  at (wrapper managed-to-native) Topshelf.Runtime.Windows.Kernel32:CreateToolhelp32Snapshot (uint,uint)
+  at Topshelf.Runtime.Windows.WindowsHostEnvironment.GetParent (System.Diagnostics.Process child) [0x00000] in <filename unknown>:0 
+12:05:57 [Error] The service terminated abnormally [Topshelf.HostFactory] System.NotImplementedException: The requested feature is not implemented.
+  at System.ServiceProcess.UnixServiceController.GetServices () [0x00000] in <filename unknown>:0 
+  at System.ServiceProcess.ServiceController.GetServices (System.String machineName) [0x00000] in <filename unknown>:0 
+  at System.ServiceProcess.ServiceController.GetServices () [0x00000] in <filename unknown>:0 
+  at Topshelf.Runtime.Windows.WindowsHostEnvironment.IsServiceInstalled (System.String serviceName) [0x00000] in <filename unknown>:0 
+  at Topshelf.Hosts.ConsoleRunHost.Run () [0x00000] in <filename unknown>:0 
+  at Topshelf.HostFactory.Run (System.Action`1 configureCallback) [0x00000] in <filename unknown>:0 
+12:05:52 [Info] Configuration Result:
+[Success] Name Dispatch
+[Success] ServiceName Dispatch [Topshelf.HostFactory] 
+12:05:52 [Info] Topshelf v3.1.122.0, .NET Framework v4.0.30319.17020 [Topshelf.HostConfigurators.HostConfiguratorImpl] 
+12:05:52 [Error] Unable to get parent process (ignored) [Topshelf.Runtime.Windows.WindowsHostEnvironment] System.EntryPointNotFoundException: CreateToolhelp32Snapshot
+  at (wrapper managed-to-native) Topshelf.Runtime.Windows.Kernel32:CreateToolhelp32Snapshot (uint,uint)
+  at Topshelf.Runtime.Windows.WindowsHostEnvironment.GetParent (System.Diagnostics.Process child) [0x00000] in <filename unknown>:0 
+12:05:52 [Error] The service terminated abnormally [Topshelf.HostFactory] System.NotImplementedException: The requested feature is not implemented.
+  at System.ServiceProcess.UnixServiceController.GetServices () [0x00000] in <filename unknown>:0 
+  at System.ServiceProcess.ServiceController.GetServices (System.String machineName) [0x00000] in <filename unknown>:0 
+  at System.ServiceProcess.ServiceController.GetServices () [0x00000] in <filename unknown>:0 
+  at Topshelf.Runtime.Windows.WindowsHostEnvironment.IsServiceInstalled (System.String serviceName) [0x00000] in <filename unknown>:0 
+  at Topshelf.Hosts.ConsoleRunHost.Run () [0x00000] in <filename unknown>:0 
+  at Topshelf.HostFactory.Run (System.Action`1 configureCallback) [0x00000] in <filename unknown>:0 
+12:05:24 [Info] Configuration Result:
+[Success] Name Dispatch
+[Success] ServiceName Dispatch [Topshelf.HostFactory] 
+12:05:24 [Info] Topshelf v3.1.122.0, .NET Framework v4.0.30319.17020 [Topshelf.HostConfigurators.HostConfiguratorImpl] 
+12:05:24 [Error] Unable to get parent process (ignored) [Topshelf.Runtime.Windows.WindowsHostEnvironment] System.EntryPointNotFoundException: CreateToolhelp32Snapshot
+  at (wrapper managed-to-native) Topshelf.Runtime.Windows.Kernel32:CreateToolhelp32Snapshot (uint,uint)
+  at Topshelf.Runtime.Windows.WindowsHostEnvironment.GetParent (System.Diagnostics.Process child) [0x00000] in <filename unknown>:0 
+12:05:24 [Error] The service terminated abnormally [Topshelf.HostFactory] System.NotImplementedException: The requested feature is not implemented.
+  at System.ServiceProcess.UnixServiceController.GetServices () [0x00000] in <filename unknown>:0 
+  at System.ServiceProcess.ServiceController.GetServices (System.String machineName) [0x00000] in <filename unknown>:0 
+  at System.ServiceProcess.ServiceController.GetServices () [0x00000] in <filename unknown>:0 
+  at Topshelf.Runtime.Windows.WindowsHostEnvironment.IsServiceInstalled (System.String serviceName) [0x00000] in <filename unknown>:0 
+  at Topshelf.Hosts.ConsoleRunHost.Run () [0x00000] in <filename unknown>:0 
+  at Topshelf.HostFactory.Run (System.Action`1 configureCallback) [0x00000] in <filename unknown>:0 
