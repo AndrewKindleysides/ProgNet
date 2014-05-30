@@ -27,3 +27,4 @@ C:\Repos\ProgNet\ReactiveApplications\prognet-reactivedemo\src\prognet-reactived
 C:\Repos\ProgNet\ReactiveApplications\prognet-reactivedemo\src\prognet-reactivedemo-site\bin\RabbitMQ.Client.xml
 C:\Repos\ProgNet\ReactiveApplications\prognet-reactivedemo\src\prognet-reactivedemo-site\obj\Debug\reactivedemosite.dll
 C:\Repos\ProgNet\ReactiveApplications\prognet-reactivedemo\src\prognet-reactivedemo-site\obj\Debug\reactivedemosite.pdb
+C:\Repos\ProgNet\ReactiveApplications\prognet-reactivedemo\src\prognet-reactivedemo-site\obj\Debug\prognet-reactivedemo-site.csprojResolveAssemblyReference.cache
