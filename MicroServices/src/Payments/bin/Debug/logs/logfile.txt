@@ -1,0 +1,5 @@
+09:05:21 [Info] Configuration Result:
+[Success] Name Payments
+[Success] ServiceName Payments [Topshelf.HostFactory] 
+09:05:22 [Info] Topshelf v3.1.122.0, .NET Framework v4.0.30319.34014 [Topshelf.HostConfigurators.HostConfiguratorImpl] 
+09:05:31 [Info] The Payments service is now running, press Control+C to exit. [Topshelf.Hosts.ConsoleRunHost] 

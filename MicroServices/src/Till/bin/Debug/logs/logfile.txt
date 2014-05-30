@@ -54,3 +54,13 @@
   at Topshelf.Runtime.Windows.WindowsHostEnvironment.IsServiceInstalled (System.String serviceName) [0x00000] in <filename unknown>:0 
   at Topshelf.Hosts.ConsoleRunHost.Run () [0x00000] in <filename unknown>:0 
   at Topshelf.HostFactory.Run (System.Action`1 configureCallback) [0x00000] in <filename unknown>:0 
+09:05:18 [Info] Configuration Result:
+[Success] Name Till
+[Success] ServiceName Till [Topshelf.HostFactory] 
+09:05:18 [Info] Topshelf v3.1.122.0, .NET Framework v4.0.30319.34014 [Topshelf.HostConfigurators.HostConfiguratorImpl] 
+09:05:21 [Info] The Till service is now running, press Control+C to exit. [Topshelf.Hosts.ConsoleRunHost] 
+09:05:21 [Info] Configuration Result:
+[Success] Name Till
+[Success] ServiceName Till [Topshelf.HostFactory] 
+09:05:22 [Info] Topshelf v3.1.122.0, .NET Framework v4.0.30319.34014 [Topshelf.HostConfigurators.HostConfiguratorImpl] 
+09:05:31 [Info] The Till service is now running, press Control+C to exit. [Topshelf.Hosts.ConsoleRunHost] 
